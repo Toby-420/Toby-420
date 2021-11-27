@@ -5,5 +5,4 @@
 -     Main email (Urgent): tobywvalentine8@gmail.com
 -     Secondary (Main contact): lnewsome350@gmail.com
 -     Tertiary (Idk why this exists. Barbara Davidde is cool though): helpforsafari@gmail.com
--
 I use Ubuntu daily as well as windows and Arch, btw so can help with that too
